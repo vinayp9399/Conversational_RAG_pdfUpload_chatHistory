@@ -51,6 +51,8 @@ The architecture follows a standard advanced RAG pipeline with a contextual quer
        │                                                                ▼
 [Streamlit Chat History Store] ◄─────────────────────────────── [Generate Answer (Groq)]
 
+```
+
 ---
 
 ## Interacting with the UI
